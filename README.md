@@ -1,10 +1,10 @@
 ## Percobaan ke-1
 
-![foto1](foto1.PNG)
+![foto2](foto2.PNG)
 
 ## Hasil Output
 
-![foto3](foto/foto3.png)
+![foto1](foto1.PNG)
 
 ### Penjelasan 
 - dalam menghitung jumlah karakter bisa menggunakan fungsi `len`. contohnya `len(txt)`, dimana len berfungsi untuk menghitung jumlah karakter.
