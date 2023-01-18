@@ -1,6 +1,6 @@
 ## Percobaan ke-1
 
-![foto5](foto/foto5.png)
+![foto1]
 
 ## Hasil Output
 
