@@ -1,6 +1,6 @@
 ## Percobaan ke-1
 
-![foto1]
+foto1.PNG
 
 ## Hasil Output
 
